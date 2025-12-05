@@ -11,7 +11,7 @@ run_worker_first = ["/api/*"]
 
 [[d1_databases]]
 binding = "DB"
-database_name = "dataset"
+database_name = "typix"
 database_id = "10068c0d-e555-450e-b8e3-1bbd469757c6"           # Replace with your actual database ID
 migrations_dir = "drizzle/migrations"
 
